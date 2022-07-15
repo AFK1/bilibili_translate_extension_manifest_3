@@ -16,7 +16,7 @@ var dictionary = {
 	"相簿收藏夹": "Fav Albums",
 	"课程收藏夹": "Fav Classes",
 	"消息中心": "Message Center",
-	"消息设置": "消息设置",
+	"消息设置": "Message settings",
 	"私信存档": "Msg Logs",
 	"@ 我的": "Mentions",
 	"有什么想和大家分享的？": "Do you have something to share with everyone?",
@@ -24,8 +24,8 @@ var dictionary = {
 	"批量操作": "Bulk Edit",
 	"最近收藏": "Recently Favorited",
 	"新建收藏夹": "Create Folder",
-	"小时前": " hours ago",
-	"收藏于：": "Favorited:",
+	"小时前": "hours ago",
+	"收藏于": "Favorited",
 	"仅自己可见": "Only I can See",
 	"我的专栏": "My Posts ",
 	"我的收藏夹": "My Favorited ",
@@ -300,4 +300,3 @@ var dictionary = {
 	"": "",
 	"": "",
 };
-
