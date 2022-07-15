@@ -1,4 +1,4 @@
-# bilibili_translate_extension
+# Расширение-переводчик bilibili
 Browser extension to translate bilibili into English (now on manifest version 3)
 
 # Word from the Developer2
