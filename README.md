@@ -1,7 +1,7 @@
 # bilibili_translate_extension
-Chrome extension to translate bilibili into English (now on manifest version 3)
+Browser extension to translate bilibili into English (now on manifest version 3)
 
-# Word from the Developer
+# Word from the Developer2
 Hello all. I decided to migrate this project to a new version of the manifest so that it can be run in modern chrome.
 
 If you find errors in the translation (I do not guarantee their absence), you can either change the dictionary yourself or let me know.
@@ -20,7 +20,7 @@ If you find errors in the translation (I do not guarantee their absence), you ca
 2. When switching between tabs, if there is no page refresh, that tab will not be translated. Hit refresh, and you should see the translations
 3. This translation only covers basic UI stuff, to help with navigation. 
 
-# Future Features (maybe)
+# Future Features (maybe2)
 1. Translations on pop-up windows
 2. Auto-refresh translation when moving between tabs
 3. Translations covering more aspects of Bilibili
