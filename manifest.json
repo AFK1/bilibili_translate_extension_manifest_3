@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "Translate bilibili page.",
   "manifest_version": 3,
-  "author": "u/XilkyTofu u/Prune_Berry u/konokalahola",
+  "author": "AFK1, u/XilkyTofu, u/Prune_Berry, u/konokalahola",
   "host_permissions": ["https://*.bilibili.com/*"],
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
   "content_scripts": [
     {
       "matches": ["https://*.bilibili.com/*"],
@@ -28,3 +35,4 @@
     }
   }
 }
+
