@@ -25,6 +25,7 @@ If you find errors in the translation (I do not guarantee their absence), you ca
 2. Auto-refresh translation when moving between tabs
 3. Translations covering more aspects of Bilibili
 4. Increase code efficiency to make translations appear faster
+4. More languages
 
 # Authors/Contributors
 A big thank you to u/konokalahola from Reddit for providing the Chrome extension framework!
