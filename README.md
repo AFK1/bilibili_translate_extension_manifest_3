@@ -15,12 +15,16 @@ If you find errors in the translation (I do not guarantee their absence), you ca
 4. Press refresh icon (No need, just in case).
 5. Turn off "Developer mode" (Optional).
 
-# Notes
+# How to Use
+1. Wait until page load and it will translate itself.
+2. If not translated, click on the extension to translate the page again.
+
+## Notes
 1. English will be overlayed a couple seconds after opening the page
 2. When switching between tabs, if there is no page refresh, that tab will not be translated. Hit refresh, and you should see the translations
 3. This translation only covers basic UI stuff, to help with navigation. 
 
-# Future Features (maybe2)
+## Future Features (maybe2)
 1. Translations on pop-up windows
 2. Auto-refresh translation when moving between tabs
 3. Translations covering more aspects of Bilibili
